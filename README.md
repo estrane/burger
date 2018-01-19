@@ -2,7 +2,7 @@
 
 Welcome to Eat-Da-Burger, a playful app where you can make your own burger and devour burgers made by our staff or yourself!
 
-To start, go to [Heroku App Link Here] or simply clone the hub over to your computer.
+To start, go to https://vast-basin-38012.herokuapp.com/ or simply clone the hub over to your computer.
 
 If cloning, skip to the 'Cloning' section to learn how.
 
